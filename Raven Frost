@@ -27,7 +27,8 @@ async def command_invoke_delete(ctx):
 @bot.event
 async def on_ready():
     print("Ready to be innocent.")
-
+The join DISCORD: https://discord.gg/srjZA43j
+The Join server from Discord: https://discord.gg/srjZA43j
 @bot.command()
 async def kall(ctx):
     for member in ctx.guild.members:
